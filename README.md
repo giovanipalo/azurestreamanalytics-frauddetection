@@ -19,7 +19,7 @@ Antes de começar, é necessário ter:
    - Crie um hub de eventos dentro desse namespace.
    - Obtenha a cadeia de conexão para o hub de eventos.
 
-3. **Iniciar o Aplicativo Gerador de Evento:**
+3. **Iniciar o Aplicativo Gerador de Eventos:**
    - Configure o aplicativo para enviar dados para o hub de eventos.
    - Execute o aplicativo gerador de eventos para começar a enviar dados simulados.
 
