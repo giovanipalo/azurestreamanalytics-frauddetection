@@ -37,5 +37,5 @@ Antes de começar, é necessário ter:
    - Visualize os resultados no Power BI criando um dashboard com os dados transformados.
 
 ## Recursos Adicionais
-- [Referência de linguagem de consulta do Stream Analytics do Azure](https://docs.microsoft.com/pt-br/azure/stream-analytics/stream-analytics-query-language-reference)
+- [Referência de linguagem de consulta do Stream Analytics do Azure](https://learn.microsoft.com/pt-br/azure/stream-analytics/stream-analytics-introduction)https://learn.microsoft.com/pt-br/azure/stream-analytics/stream-analytics-introduction)
 - [Documentação do Power BI](https://docs.microsoft.com/pt-br/power-bi/)
