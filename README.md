@@ -14,7 +14,7 @@ Antes de começar, é necessário ter:
 1. **Entrar no Azure:**
    Acesse o [portal do Azure](https://portal.azure.com/) e faça login.
 
-2. **Criar um Hub de Evento:**
+2. **Criar um Hub de Eventos:**
    - Crie um namespace para os Hubs de Eventos.
    - Crie um hub de eventos dentro desse namespace.
    - Obtenha a cadeia de conexão para o hub de eventos.
