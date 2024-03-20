@@ -38,5 +38,4 @@ Antes de começar, é necessário ter:
 
 ## Recursos Adicionais
 - [Referência de linguagem de consulta do Stream Analytics do Azure](https://docs.microsoft.com/pt-br/azure/stream-analytics/stream-analytics-query-language-reference)
-- [Guia de Preços do Azure Stream Analytics](https://azure.microsoft.com/pt-br/pricing/details/stream-analytics/)
 - [Documentação do Power BI](https://docs.microsoft.com/pt-br/power-bi/)
